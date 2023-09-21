@@ -4,4 +4,4 @@ i'm currently a grad student at uc berkeley, pursuing a master of development pr
 
 here's a photo of me:
 ![headshot](https://github.com/axmwu/axmwu.github.io/blob/main/media/headshot.jpg?raw=true)
-<img src="https://github.com/axmwu/axmwu.github.io/blob/main/media/headshot.jpg?raw=true" width="200" height="100">
+<img src="https://github.com/axmwu/axmwu.github.io/blob/main/media/headshot.jpg?raw=true" width="400">
